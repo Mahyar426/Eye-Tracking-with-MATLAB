@@ -3,12 +3,12 @@
 ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=👁️+Gaze+Estimation+via+Iris+Detection;No+eye-tracking+hardware.+No+depth+sensor.+No+IR.;Just+a+webcam%2C+a+vision+pipeline%2C+and+geometry.)
 
 ```
-███████╗██╗   ██╗███████╗
-██╔════╝╚██╗ ██╔╝██╔════╝
+  ███████╗██╗   ██╗███████╗
+  ██╔════╝╚██╗ ██╔╝██╔════╝
 █████╗   ╚████╔╝ █████╗
 ██╔══╝    ╚██╔╝  ██╔══╝
-███████╗   ██║   ███████╗
-╚══════╝   ╚═╝   ╚══════╝
+  ███████╗   ██║   ███████╗
+  ╚══════╝   ╚═╝   ╚══════╝
   camera-only gaze estimation — ~98% accuracy
 ```
 
